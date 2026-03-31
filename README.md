@@ -4,7 +4,7 @@
 ---
  **`Sobre Mim`**
 ---
-Me chamo Jobson Berto da Silva, tenho 29 anos.Atualmente, estudo Html, Css,Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns pela Udemy além disso, estou cursanado Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica/UniAmérica.
+Me chamo Jobson Berto da Silva, tenho 29 anos.Atualmente, estudo Html, Css,Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns pela Udemy além disso, estou cursando Análise e Desenvolvimento de Sistemas pela Faculdade Descomplica/UniAmérica.
 
 <p align="left">
     <a href="https://mail.google.com/mail/u/1/?ogbl#inbox?compose=DmwnWrRqhBnvGrMrfVVcvqsVCdXrThWTzhSpNjnjhXHCfWHbCJDDpvQtBjGcDSxRXjqqvbwvswtq">
